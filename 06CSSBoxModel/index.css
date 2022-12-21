@@ -1,0 +1,12 @@
+#first-box {
+  border: 1px solid red;
+  padding: 10px;
+  width: 50px;
+}
+
+#second-box {
+  box-sizing: border-box;
+  border: 1px solid blue;
+  padding: 10px;
+  width: 50px;
+}
