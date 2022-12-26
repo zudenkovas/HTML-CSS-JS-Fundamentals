@@ -1,0 +1,44 @@
+.box {
+  height: 50px;
+  margin-bottom: 10px;
+}
+
+#box-1 {
+  background-color: #894560;
+}
+
+#box-2 {
+  background-color: #89456050;
+}
+
+#box-3 {
+  background-color: rgb(100, 75, 100);
+}
+
+#box-4 {
+  background-color: hsl(344, 75%, 60%);
+}
+
+#box-5 {
+  background-color: coral;
+}
+
+#box-6 {
+  color: #894560;
+}
+
+#box-7 {
+  color: #89456050;
+}
+
+#box-8 {
+  color: rgb(100, 75, 100);
+}
+
+#box-9 {
+  color: hsl(344, 75%, 60%);
+}
+
+#box-10 {
+  color: coral;
+}
