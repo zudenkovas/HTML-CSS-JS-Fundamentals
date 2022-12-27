@@ -1,0 +1,36 @@
+.box {
+  height: 50px;
+  margin-bottom: 10px;
+}
+
+.box-wrapper-1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.box-wrapper-2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+#box-1 {
+  background-color: #894560;
+}
+
+#box-2 {
+  background-color: #89456050;
+}
+
+#box-3 {
+  background-color: rgb(100, 75, 100);
+}
+
+#box-4 {
+  background-color: hsl(344, 75%, 60%);
+}
+
+#box-5 {
+  background-color: coral;
+}
