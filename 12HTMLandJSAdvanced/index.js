@@ -10,7 +10,7 @@ const addElementButton = document.getElementById("element-add-button");
 
 function addElement(e) {
   const paragraph = document.createElement("p");
-  const textNode = document.createTextNode("This is new.");
+  const textNode = document.createTextNode("This is the text.");
 
   paragraph.appendChild(textNode);
 
